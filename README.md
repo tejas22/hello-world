@@ -1,2 +1,3 @@
 # hello-world
+Iam tejas and i like to explore things in different domains of technologies...
 This is my first repository on GitHub!!
